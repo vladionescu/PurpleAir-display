@@ -36,6 +36,8 @@ connection for the port in Arduino IDE!
 Design
 ------
 
+![It's less ugly from far away](pics/assembled.jpg)
+
 It turns out PurpleAir devices have a small web server with an (undocumented)
 JSON API at http://<device_ip>/json
 
